@@ -1,5 +1,14 @@
 CACHE MANIFEST
-# Version 0.023 
+# Version 0.01 
+
+js/perfmatters.js
+js/fonts.js
+css/style.css
+css/print.css
+img/profilepic.jpg
+img/mobilewebdev.jpg
+img/cam_be_like.jpg
+img/2048.png
 
 NETWORK:
 *
